@@ -1,0 +1,48 @@
+#querybox{
+		position:absolute;
+	top:180px;
+	left:500px;
+	
+}
+#runbutton{
+		position:absolute;
+	top:180px;
+	left:1000px;
+}
+#resultContainter{
+	position:absolute;
+	top:270px;
+	left:400px;
+}
+.fbbox {
+    border-radius: 25px;
+    border: 2px solid #7a7a7a;
+    padding: 20px;
+    background: #a4d3ee; 
+    width: 800px;
+    height: 80px;    
+}
+.twbox {
+    border-radius: 25px;
+    border: 2px solid #7a7a7a;
+    padding: 20px; 
+    background: #00e5ee;
+    width: 800px;
+    height: 80px;    
+}
+
+.fleft { display:table-cell; color:#fff; vertical-align:top; width:120px; margin:0; padding:0; height:120px; 
+     background-image:url('fb.png'); 
+        background-repeat: no-repeat;
+      background-size: 50px 50px;
+      }
+
+.tleft { display:table-cell; color:#fff; vertical-align:top; width:120px; margin:0; padding:0; height:120px; 
+     background-image:url('tw.png');
+     background-repeat: no-repeat;
+
+      background-size: 50px 50px; }
+      
+   .fright { display:table-cell; color:#000; vertical-align:top; width:580px; padding:0 10px; }
+.tright { display:table-cell; color:#000; vertical-align:top; width:580px; padding:0 10px; }
+   

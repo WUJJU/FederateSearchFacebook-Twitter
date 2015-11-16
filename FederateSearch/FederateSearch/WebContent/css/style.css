@@ -1,0 +1,15 @@
+#querybox{
+		position:absolute;
+	top:180px;
+	left:350px;
+}
+#runbutton{
+		position:absolute;
+	top:230px;
+	left:890px;
+}
+#resultContainter{
+	position:absolute;
+	top:270px;
+	left:400px;
+}
